@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "dolphinhttp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/WeiTsungCheng/DolphinHTTP.git",
+      "state" : {
+        "revision" : "fbc1124824f9461d9e5c3c78c215b549180b7196",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "e74fe2a978d1216c3602b129447c7301573cc2d8",
+        "version" : "5.7.0"
+      }
+    }
+  ],
+  "version" : 2
+}
